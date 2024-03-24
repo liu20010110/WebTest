@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "tw.com.ios.MyFirstApp",
+                "paths": [ "/path/to/content", "*" ]
+            }
+        ]
+    }
+}
