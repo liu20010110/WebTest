@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "tw.com.ios.MyFirstApp",
+                "appID": "AJMU3MJZKJ.tw.com.ios.MyFirstApp",
                 "paths": [ "/path/to/content", "*" ]
             }
         ]
